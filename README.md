@@ -2,13 +2,17 @@
 This project is a simple PHP-based application that allows users to manage personal details of multiple individuals. It provides functionality as:   
 1.Input details through a user-friendly form.   
 2.Store the data in a MySQL database.   
-3.View the stored data in a structured and styled table.   
+3.View the stored data in a structured and styled table      
 
-   FEATURES
-Add Multiple Persons: Users can input details such as: Name,Date of Birth,Address,Phone Number
-Backend Integration: All data is stored securely in a MySQL database.
-View Records: A separate page displays all stored records in a neat, tabular format.
-Scalable Design: Allows for the addition of multiple users.
+FEATURES     
+Add Multiple Persons: Users can input details such as:   
+Name   
+Date of birth   
+Address   
+Phone   
+Backend Integration: All data is stored securely in a MySQL database.   
+View Records: A separate page displays all stored records in a neat, tabular format.   
+Scalable Design: Allows for the addition of multiple users.   
 
    TECHNOLOGIES USED
 Frontend: HTML, CSS
