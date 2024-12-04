@@ -5,20 +5,20 @@ This project is a simple PHP-based application that allows users to manage perso
 3.View the stored data in a structured and styled table      
 
 FEATURES     
-Add Multiple Persons: Users can input details such as:   
+Add Multiple Persons:    Users can input details such as:   
 Name   
 Date of birth   
 Address   
-Phone   
-Backend Integration: All data is stored securely in a MySQL database.   
-View Records: A separate page displays all stored records in a neat, tabular format.   
-Scalable Design: Allows for the addition of multiple users.   
+Phone      
+Backend Integration:    All data is stored securely in a MySQL database.   
+View Records:    A separate page displays all stored records in a neat, tabular format.   
+Scalable Design:    Allows for the addition of multiple users.      
 
-   TECHNOLOGIES USED
-Frontend: HTML, CSS
-Backend: PHP
-Database: MySQL
-Server: XAMPP (Apache and MySQL)
+TECHNOLOGIES USED   
+Frontend: HTML, CSS   
+Backend: PHP   
+Database: MySQL   
+Server: XAMPP (Apache and MySQL)   
 
    PREREQUISITES
 XAMPP or any PHP and MySQL server installed on your machine.
