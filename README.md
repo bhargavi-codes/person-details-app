@@ -7,23 +7,23 @@ This project is a simple PHP-based application that allows users to manage perso
 FEATURES     
 Add Multiple Persons:        
 Users can input details such as:       
-Name   
-Date of birth   
-Address   
-Phone      
+1.Name   
+2.Date of birth   
+3.Address   
+4.Phone      
 Backend Integration:All data is stored securely in a MySQL database.          
 View Records:A separate page displays all stored records in a neat, tabular format.          
 Scalable Design:Allows for the addition of multiple users.                
 
 TECHNOLOGIES USED         
-Frontend: HTML, CSS         
-Backend: PHP         
-Database: MySQL         
-Server: XAMPP (Apache and MySQL)            
+1.Frontend: HTML, CSS         
+2.Backend: PHP         
+3.Database: MySQL         
+4.Server: XAMPP (Apache and MySQL)            
 
 PREREQUISITES   
-XAMPP or any PHP and MySQL server installed on your machine.   
-A web browser to access the application.   
+1.XAMPP or any PHP and MySQL server installed on your machine.   
+2.A web browser to access the application.   
 
 INSTALLATION AND SETUP   
 1. Clone or Download the Project   
@@ -49,10 +49,10 @@ Ensure the database connection in insert.php and view.php matches your setup:
 $conn = new mysqli('localhost', 'root', '', 'person_db');   
 
 HOW TO RUN   
-Open your web browser.   
-Access the form page: http://localhost/person-details/form.html.   
-Fill in the details and submit the form.   
-View stored records at: http://localhost/person-details/view.php.   
+1.Open your web browser.   
+2.Access the form page: http://localhost/person-details/form.html.   
+3.Fill in the details and submit the form.   
+4.View stored records at: http://localhost/person-details/view.php.   
 
 FOLDER STRUCTURE   
 person-details/    
