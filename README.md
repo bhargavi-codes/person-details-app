@@ -5,7 +5,8 @@ This project is a simple PHP-based application that allows users to manage perso
 3.View the stored data in a structured and styled table      
 
 FEATURES     
-Add Multiple Persons:    Users can input details such as:   
+Add Multiple Persons:        
+Users can input details such as:       
 Name   
 Date of birth   
 Address   
@@ -58,7 +59,7 @@ View stored records at: http://localhost/person-details/view.php.
 
 FOLDER STRUCTURE   
 person-details/
-│
+│    
 ├── form.html         # Form to collect user details   
 ├── insert.php        # Handles data insertion into the database   
 ├── view.php          # Displays data in a tabular format   
