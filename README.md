@@ -10,10 +10,10 @@ Users can input details such as:
 1.Name   
 2.Date of birth   
 3.Address   
-4.Phone      
-Backend Integration:All data is stored securely in a MySQL database.          
-View Records:A separate page displays all stored records in a neat, tabular format.          
-Scalable Design:Allows for the addition of multiple users.                
+4.Phone Number       
+Backend Integration: All data is stored securely in a MySQL database.          
+View Records: A separate page displays all stored records in a neat, tabular format.          
+Scalable Design: Allows for the addition of multiple users.                
 
 TECHNOLOGIES USED         
 1.Frontend: HTML, CSS         
