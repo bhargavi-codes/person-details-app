@@ -58,8 +58,8 @@ Fill in the details and submit the form.
 View stored records at: http://localhost/person-details/view.php.   
 
 FOLDER STRUCTURE   
-person-details/
-│    
+person-details/    
+│        
 ├── form.html         # Form to collect user details   
 ├── insert.php        # Handles data insertion into the database   
 ├── view.php          # Displays data in a tabular format   
