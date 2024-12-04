@@ -36,7 +36,7 @@ Start the Apache and MySQL modules.
  3. Set Up the Database   
 Open phpMyAdmin in your browser.   
 Create a database named person_db and execute the following SQL command:   
-# SQL QUERY:   
+SQL QUERY:   
 CREATE TABLE person_details (   
     id INT AUTO_INCREMENT PRIMARY KEY,   
     name VARCHAR(255) NOT NULL,   
@@ -44,7 +44,7 @@ CREATE TABLE person_details (
     address TEXT NOT NULL,   
     phone VARCHAR(15) NOT NULL   
 );   
-# 4. Configure the Project   
+ 4. Configure the Project   
 Place the project files in the htdocs folder of XAMPP (e.g., C:/xampp/htdocs/person-details).   
 Ensure the database connection in insert.php and view.php matches your setup:   
 $conn = new mysqli('localhost', 'root', '', 'person_db');   
