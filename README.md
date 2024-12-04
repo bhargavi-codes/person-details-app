@@ -71,10 +71,16 @@ USAGE
 3.Visit view.php to see all the records displayed in a styled table.   
 
 SCREENSHOTS   
-![Screenshot 2024-12-04 231517](https://github.com/user-attachments/assets/d30333be-a5ea-494a-aa18-0b03db228c1a)
-![Screenshot 2024-12-04 231352](https://github.com/user-attachments/assets/54ca15d6-1fe2-4896-8ef2-ef28a041f2cf)
-![Screenshot 2024-12-04 231331](https://github.com/user-attachments/assets/55af945c-ae49-445c-83a1-b541367a3c47)
-![Screenshot 2024-12-04 231221](https://github.com/user-attachments/assets/f85c78e3-009b-4aeb-807a-6e2513756d48)
+![Screenshot 2024-12-04 231221](https://github.com/user-attachments/assets/aa84b86b-25ca-42a9-9c8e-3da0168d01e3)(from.html page)    
+![Screenshot 2024-12-04 231331](https://github.com/user-attachments/assets/c8f7d64b-ee26-4802-91e5-535d7618fe99)(insert.php page)    
+![Screenshot 2024-12-04 231352](https://github.com/user-attachments/assets/9aa86be6-c1ae-4a9b-9988-f6d44b1bb421)(view.php page)    
+![Screenshot 2024-12-04 231517](https://github.com/user-attachments/assets/7a5ee705-5953-45bf-88c6-2def9197ff4b)(phpmyadmin page)    
+
+TROUBLESHOOTING        
+1.404 Error: Ensure the files are in the correct htdocs directory.    
+2.Database Connection Error: Double-check your MySQL credentials in insert.php and view.php.    
+3.No Records Found: Confirm data is being inserted into the database.    
+
 
 
 
