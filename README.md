@@ -71,15 +71,11 @@ USAGE
 3.Visit view.php to see all the records displayed in a styled table.   
 
 SCREENSHOTS   
-![Screenshot 2024-12-04 231517](https://github.com/user-attachments/assets/57ba52d7-47e8-4aee-a5ab-a95ea548c2de)   
-![Screenshot 2024-12-04 231352](https://github.com/user-attachments/assets/0b717f3f-61a5-4580-bdcb-bef23ec2af0d)   
-![Screenshot 2024-12-04 231331](https://github.com/user-attachments/assets/5fa3bd55-61c8-48f5-8b51-07b631191347)   
-![Screenshot 2024-12-04 231221](https://github.com/user-attachments/assets/c0c22710-e92f-41d5-98e0-ae402ea93191)   
+![Screenshot 2024-12-04 231517](https://github.com/user-attachments/assets/d30333be-a5ea-494a-aa18-0b03db228c1a)
+![Screenshot 2024-12-04 231352](https://github.com/user-attachments/assets/54ca15d6-1fe2-4896-8ef2-ef28a041f2cf)
+![Screenshot 2024-12-04 231331](https://github.com/user-attachments/assets/55af945c-ae49-445c-83a1-b541367a3c47)
+![Screenshot 2024-12-04 231221](https://github.com/user-attachments/assets/f85c78e3-009b-4aeb-807a-6e2513756d48)
 
-TROUBLESHOOTING   
-404 Error: Ensure the files are in the correct htdocs directory.   
-Database Connection Error: Double-check your MySQL credentials in insert.php and view.php.   
-No Records Found: Confirm data is being inserted into the database.   
 
 
 
