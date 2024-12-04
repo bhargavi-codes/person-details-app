@@ -1,11 +1,11 @@
 # person-details-app 
-#PERSON DETAILS MANAGEMENT APPLICATION    
+# PERSON DETAILS MANAGEMENT APPLICATION    
 This project is a simple PHP-based application that allows users to manage personal details of multiple individuals. It provides functionality as:   
 1.Input details through a user-friendly form.   
 2.Store the data in a MySQL database.   
 3.View the stored data in a structured and styled table      
 
- FEATURES     
+# FEATURES     
 Add Multiple Persons:        
 Users can input details such as:       
 1.Name   
@@ -16,17 +16,17 @@ Backend Integration: All data is stored securely in a MySQL database.
 View Records: A separate page displays all stored records in a neat, tabular format.          
 Scalable Design: Allows for the addition of multiple users.                
 
- TECHNOLOGIES USED         
+# TECHNOLOGIES USED         
 1.Frontend: HTML, CSS         
 2.Backend: PHP         
 3.Database: MySQL         
 4.Server: XAMPP (Apache and MySQL)            
 
- PREREQUISITES   
+# PREREQUISITES   
 1.XAMPP or any PHP and MySQL server installed on your machine.   
 2.A web browser to access the application.   
 
- INSTALLATION AND SETUP   
+# INSTALLATION AND SETUP   
 1. Clone or Download the Project   
 Download the project as a ZIP file or clone the repository:   
 git clone https://github.com/repo-link/person-details-app.git   
