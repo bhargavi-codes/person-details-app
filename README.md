@@ -80,7 +80,7 @@ $conn = new mysqli('localhost', 'root', '', 'person_db');
 
 # TROUBLESHOOTING        
 1.404 Error: Ensure the files are in the correct htdocs directory.    
-2.Database Connection Error: Double-check your MySQL credentials in insert.php and view.php.    
+2.Database Connection Error: Double-check your MySQL credentials in # insert.php and # view.php.    
 3.No Records Found: Confirm data is being inserted into the database.    
 
 
