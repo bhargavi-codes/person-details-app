@@ -11,12 +11,9 @@ Name
 Date of birth   
 Address   
 Phone      
-Backend Integration:          
-All data is stored securely in a MySQL database.      
-View Records:          
-A separate page displays all stored records in a neat, tabular format.      
-Scalable Design:       
-Allows for the addition of multiple users.            
+Backend Integration:All data is stored securely in a MySQL database.          
+View Records:A separate page displays all stored records in a neat, tabular format.          
+Scalable Design:Allows for the addition of multiple users.                
 
 TECHNOLOGIES USED         
 Frontend: HTML, CSS         
