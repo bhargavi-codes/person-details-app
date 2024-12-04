@@ -69,7 +69,7 @@ $conn = new mysqli('localhost', 'root', '', 'person_db');
 3.Visit view.php to see all the records displayed in a styled table.   
 
 # SCREENSHOTS     
-# 1.from.html page          
+# 1.form.html page          
 ![Screenshot 2024-12-04 231221](https://github.com/user-attachments/assets/aa84b86b-25ca-42a9-9c8e-3da0168d01e3)
 # 2.insert.php page         
 ![Screenshot 2024-12-04 231331](https://github.com/user-attachments/assets/c8f7d64b-ee26-4802-91e5-535d7618fe99) 
