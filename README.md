@@ -66,9 +66,9 @@ person-details/
 └── README.md         # Project documentation   
 
 USAGE   
-Open form.html in your browser to add personal details.   
-Submit the form to store details in the database.   
-Visit view.php to see all the records displayed in a styled table.   
+1.Open form.html in your browser to add personal details.   
+2.Submit the form to store details in the database.   
+3.Visit view.php to see all the records displayed in a styled table.   
 
 SCREENSHOTS   
 ![Screenshot 2024-12-04 231517](https://github.com/user-attachments/assets/57ba52d7-47e8-4aee-a5ab-a95ea548c2de)   
