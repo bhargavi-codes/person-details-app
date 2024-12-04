@@ -14,11 +14,11 @@ Backend Integration:    All data is stored securely in a MySQL database.
 View Records:    A separate page displays all stored records in a neat, tabular format.   
 Scalable Design:    Allows for the addition of multiple users.      
 
-TECHNOLOGIES USED   
-Frontend: HTML, CSS   
-Backend: PHP   
-Database: MySQL   
-Server: XAMPP (Apache and MySQL)   
+TECHNOLOGIES USED      
+Frontend: HTML, CSS      
+Backend: PHP      
+Database: MySQL      
+Server: XAMPP (Apache and MySQL)      
 
    PREREQUISITES
 XAMPP or any PHP and MySQL server installed on your machine.
