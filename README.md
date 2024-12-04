@@ -27,13 +27,13 @@ Scalable Design: Allows for the addition of multiple users.
 2.A web browser to access the application.   
 
 # INSTALLATION AND SETUP   
-# 1. Clone or Download the Project   
+ 1. Clone or Download the Project   
 Download the project as a ZIP file or clone the repository:   
 git clone https://github.com/repo-link/person-details-app.git   
-# 2. Start the Server   
+ 2. Start the Server   
 Launch the XAMPP Control Panel.   
 Start the Apache and MySQL modules.   
-# 3. Set Up the Database   
+ 3. Set Up the Database   
 Open phpMyAdmin in your browser.   
 Create a database named person_db and execute the following SQL command:   
 # SQL QUERY:   
@@ -80,7 +80,7 @@ $conn = new mysqli('localhost', 'root', '', 'person_db');
 
 # TROUBLESHOOTING        
 1.404 Error: Ensure the files are in the correct htdocs directory.    
-2.Database Connection Error: Double-check your MySQL credentials in # insert.php and # view.php.    
+2.Database Connection Error: Double-check your MySQL credentials in insert.php and view.php.    
 3.No Records Found: Confirm data is being inserted into the database.    
 
 
