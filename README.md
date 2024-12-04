@@ -1,6 +1,8 @@
 # person-details-app (PERSON DETAILS MANAGEMENT APPLICATION)
-This project is a simple PHP-based application that allows users to manage personal details of multiple individuals. It provides functionality to1.Input details through a user-friendly form.2.Store the data in a MySQL database.
-3.View the stored data in a structured and styled table.
+This project is a simple PHP-based application that allows users to manage personal details of multiple individuals. It provides functionality as:   
+1.Input details through a user-friendly form.   
+2.Store the data in a MySQL database.   
+3.View the stored data in a structured and styled table.   
 
    FEATURES
 Add Multiple Persons: Users can input details such as: Name,Date of Birth,Address,Phone Number
