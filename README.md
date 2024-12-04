@@ -67,14 +67,14 @@ USAGE
 2.Submit the form to store details in the database.   
 3.Visit view.php to see all the records displayed in a styled table.   
 
-SCREENSHOTS 
-(from.html page)      
+SCREENSHOTS     
+1.from.html page          
 ![Screenshot 2024-12-04 231221](https://github.com/user-attachments/assets/aa84b86b-25ca-42a9-9c8e-3da0168d01e3)
-(insert.php page)     
+2.insert.php page         
 ![Screenshot 2024-12-04 231331](https://github.com/user-attachments/assets/c8f7d64b-ee26-4802-91e5-535d7618fe99) 
-(view.php page)    
+3.view.php page       
 ![Screenshot 2024-12-04 231352](https://github.com/user-attachments/assets/9aa86be6-c1ae-4a9b-9988-f6d44b1bb421) 
-(phpmyadmin page)    
+4.phpmyadmin page       
 ![Screenshot 2024-12-04 231517](https://github.com/user-attachments/assets/7a5ee705-5953-45bf-88c6-2def9197ff4b)    
 
 TROUBLESHOOTING        
