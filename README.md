@@ -37,7 +37,7 @@ Start the Apache and MySQL modules.
 Open phpMyAdmin in your browser.   
 Create a database named person_db and execute the following SQL command:   
 SQL QUERY:   
-CREATE TABLE person_details (   
+\ CREATE TABLE person_details (   
     id INT AUTO_INCREMENT PRIMARY KEY,   
     name VARCHAR(255) NOT NULL,   
     dob DATE NOT NULL,   
