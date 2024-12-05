@@ -17,7 +17,7 @@ View Records: A separate page displays all stored records in a neat, tabular for
 Scalable Design: Allows for the addition of multiple users.                
 
 # TECHNOLOGIES USED         
-1.Frontend: HTML, CSS         
+1.Frontend: HTML, CSS 
 2.Backend: PHP         
 3.Database: MySQL         
 4.Server: XAMPP (Apache and MySQL)            
