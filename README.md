@@ -49,10 +49,11 @@ Create a database named person_db and execute the following SQL command:
     address TEXT NOT NULL,       
     phone VARCHAR(15) NOT NULL       
     );`  
-  5. Configure the Project    
-Place the project files in the htdocs folder of XAMPP (e.g., C:/xampp/htdocs/person-details).   
-Ensure the database connection in insert.php and view.php matches your setup:   
-$conn = new mysqli('localhost', 'root', '', 'person_db');   
+    
+  5. Configure the Project     
+  Place the project files in the htdocs folder of XAMPP (e.g., C:/xampp/htdocs/person-details).    
+  Ensure the database connection in insert.php and view.php matches your setup:    
+  $conn = new mysqli('localhost', 'root', '', 'person_db');    
 
 # HOW TO RUN   
 1.Open your web browser.   
