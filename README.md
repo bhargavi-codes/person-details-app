@@ -33,23 +33,22 @@ git clone https://github.com/repo-link/person-details-app.git
  2. Start the Server   
 Launch the XAMPP Control Panel.   
 Start the Apache and MySQL modules.   
- 3. Set Up the Database   
- 4.Open phpMyAdmin in your browser.   
+ 3. Set Up the Database
+ 4. Open phpMyAdmin in your browser.     
 Create a database named person_db and execute the following SQL command:   
+ SQL QUERY: 
  
- SQL QUERY:
- 
-`CREATE DATABASE person_db;` 
+`CREATE DATABASE person_db;`  
 
-`USE person_db;` 
+`USE person_db;`  
 
-`CREATE TABLE person_details ( 
-    id INT AUTO_INCREMENT PRIMARY KEY,    
-    name VARCHAR(255) NOT NULL,     
-    dob DATE NOT NULL,      
-    address TEXT NOT NULL,      
-    phone VARCHAR(15) NOT NULL      
-    );`  
+`CREATE TABLE person_details (  
+    id INT AUTO_INCREMENT PRIMARY KEY,     
+    name VARCHAR(255) NOT NULL,      
+    dob DATE NOT NULL,       
+    address TEXT NOT NULL,       
+    phone VARCHAR(15) NOT NULL       
+    );` 
   5. Configure the Project   
 Place the project files in the htdocs folder of XAMPP (e.g., C:/xampp/htdocs/person-details).   
 Ensure the database connection in insert.php and view.php matches your setup:   
