@@ -43,7 +43,7 @@ SQL QUERY:
     dob DATE NOT NULL,   
     address TEXT NOT NULL,   
     phone VARCHAR(15) NOT NULL   
-);   
+);   @
  4. Configure the Project   
 Place the project files in the htdocs folder of XAMPP (e.g., C:/xampp/htdocs/person-details).   
 Ensure the database connection in insert.php and view.php matches your setup:   
