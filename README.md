@@ -52,8 +52,8 @@ Create a database named person_db and execute the following SQL command:
     
   5. Configure the Project     
   Place the project files in the htdocs folder of XAMPP (e.g., C:/xampp/htdocs/person-details).    
-  Ensure the database connection in insert.php and view.php matches your setup:    
-  $conn = new mysqli('localhost', 'root', '', 'person_db');    
+  Ensure the database connection in `insert.php` and `view.php` matches your setup:    
+ ` $conn = new mysqli('localhost', 'root', '', 'person_db'); `   
 
 # HOW TO RUN   
 1.Open your web browser.   
@@ -64,15 +64,15 @@ Create a database named person_db and execute the following SQL command:
 # FOLDER STRUCTURE   
 # person-details/    
 │        
-├── form.html         # Form to collect user details   
-├── insert.php        # Handles data insertion into the database   
-├── view.php          # Displays data in a tabular format   
-└── README.md         # Project documentation   
+├── `form.html`         # Form to collect user details   
+├── `insert.php`        # Handles data insertion into the database   
+├── `view.php`          # Displays data in a tabular format   
+└── `README.md`         # Project documentation   
 
 # USAGE   
-1.Open form.html in your browser to add personal details.   
+1.Open `form.html` in your browser to add personal details.   
 2.Submit the form to store details in the database.   
-3.Visit view.php to see all the records displayed in a styled table.   
+3.Visit `view.php` to see all the records displayed in a styled table.   
 
 # SCREENSHOTS     
 # 1.form.html page          
