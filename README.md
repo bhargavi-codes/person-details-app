@@ -41,14 +41,14 @@ Create a database named person_db and execute the following SQL command:
 
 `USE person_db;` 
 
-`CREATE TABLE person_details (` 
+`CREATE TABLE person_details ( 
 
-    `id INT AUTO_INCREMENT PRIMARY KEY,`     
-    `name VARCHAR(255) NOT NULL,`    
-    `dob DATE NOT NULL,`     
-    `address TEXT NOT NULL,`     
-    `phone VARCHAR(15) NOT NULL`     
-    `);` 
+    `id INT AUTO_INCREMENT PRIMARY KEY,    
+    name VARCHAR(255) NOT NULL,     
+    dob DATE NOT NULL,      
+    address TEXT NOT NULL,      
+    phone VARCHAR(15) NOT NULL      
+    );` 
  5. Configure the Project   
 Place the project files in the htdocs folder of XAMPP (e.g., C:/xampp/htdocs/person-details).   
 Ensure the database connection in insert.php and view.php matches your setup:   
